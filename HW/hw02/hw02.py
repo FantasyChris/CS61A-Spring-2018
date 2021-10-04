@@ -68,4 +68,4 @@ def make_adder(n):
     """
     "*** YOUR CODE HERE ***"
 
-    return lambda x : x + n
+    return lambda x: x + n
